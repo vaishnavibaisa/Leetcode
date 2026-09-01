@@ -5,4 +5,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/vaishnavibaisa/Leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/vaishnavibaisa/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
