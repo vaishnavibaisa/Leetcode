@@ -14,6 +14,7 @@
 | [1075-project-employees-i](https://github.com/vaishnavibaisa/Leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/vaishnavibaisa/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaishnavibaisa/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vaishnavibaisa/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/vaishnavibaisa/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/vaishnavibaisa/Leetcode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
