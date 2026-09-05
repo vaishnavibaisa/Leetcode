@@ -19,4 +19,5 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vaishnavibaisa/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/vaishnavibaisa/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/vaishnavibaisa/Leetcode/tree/master/1693-daily-leads-and-partners) |
+| [1965-employees-with-missing-information](https://github.com/vaishnavibaisa/Leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
